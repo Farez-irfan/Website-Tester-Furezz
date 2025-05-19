@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+    background-color: rgb(14, 56, 113);
+}
+
+#logo {
+    float: left;
+}
+
+#Icon {
+    float: right;
+}
+
+#Navigation {
+    clear: both;
+    border-top: solid black 1px;
+    border-bottom: solid black 1px;
+    word-spacing: 10px;
+    margin: 10px;
+    padding: 10px;  
+}
+
+#Weldow h1 {
+    color: #f90;
+    border-bottom: solid black 0.5px;
+    padding: 10px;
+}
+
+#Weldow {
+    float: left;
+    width: 620px;
+}
+
+#kanan {
+    float: right;
+    width: 215px;
+}
+
+#Footer {
+    clear: both;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 40px;
+    border-top: 1px solid black;
+    padding-top: 10px;
+}
+
+#Kotak {
+    background-color: rgb(255, 255, 255);
+    margin: 0px auto;
+    width: 950px;
+}
+
+#KotakKotak {
+    background-color: rgb(255, 255, 255);
+    margin: 0px auto;
+    width: 900px;
+    align-items: center;
+}
+
+#Weldow img {
+    padding: 9px;
+    padding-left: 10px;
+    border: 1px solid black;
+    margin: 8px;
+}
+
+#kanan h3 {
+    color: #f90;
+    margin-bottom: -20px;
+}
+
+#kanan p {
+    margin-top: -10px;
+}
+
